@@ -259,4 +259,4 @@ Lalu buka browser: **`http://localhost:8001`**
 
 ---
 
-*Dibuat oleh Rafli Maulana — RPL Kelas XI*
+*Dibuat oleh **Kayla Artalita** — Kelas XI-3 RPL*
